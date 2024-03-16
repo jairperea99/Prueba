@@ -1,0 +1,12 @@
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\bin\Debug\net8.0\CapaAccessoDatos.deps.json
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\bin\Debug\net8.0\CapaAccessoDatos.dll
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\bin\Debug\net8.0\CapaAccessoDatos.pdb
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\CapaAccessoDatos.csproj.AssemblyReference.cache
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\CapaAccessoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\CapaAccessoDatos.AssemblyInfoInputs.cache
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\CapaAccessoDatos.AssemblyInfo.cs
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\CapaAccessoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\CapaAccessoDatos.dll
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\refint\CapaAccessoDatos.dll
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\CapaAccessoDatos.pdb
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaAccessoDatos\obj\Debug\net8.0\ref\CapaAccessoDatos.dll

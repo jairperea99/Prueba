@@ -1,0 +1,15 @@
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\bin\Debug\net8.0\CapaAccessoDatos.dll
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\bin\Debug\net8.0\CapaAccessoDatos.pdb
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CopyComplete
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Jair\Documents\Prueba Angular\Prueba Api\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
